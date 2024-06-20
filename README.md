@@ -1,1 +1,3 @@
-# Softuni-Java-Web-HTML-And-CSS
+# Softuni Java Web Course 
+## HTML and CSS - Lab Solutions
+
